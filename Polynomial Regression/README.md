@@ -9,3 +9,4 @@ Which was their position,level and salary
 | Manager  | 4 | 80000 |
 | Manager  | 4 | 80000 |
 | Partner  | 7 | 200000 |
+

@@ -3,7 +3,7 @@
 
 Using the loan approval dataset for this Algorithm
 ___
-[Download Dataset](https://github.com/immangeek?tab=repositories)
+[Download Dataset](https://raw.githubusercontent.com/immangeek/Machine-Learning-Models/main/Support%20Vector%20Machine%20Algorithm/loan.csv)
 
 
 
